@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-color: rgb(54, 54, 54);
+    color: rgb(210, 183, 30);
+    margin-top: 50px;
+}
+p{
+    font-size: 27px;
+}
